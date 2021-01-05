@@ -29,7 +29,7 @@ Further, Monte Carlo simulations will be performed to further asses risk. Using 
 
 Time frame combinations:
 
-Note - all p-values are significant at p < 0.05.
+Note - all p-values are significant at **p < 0.05**.
 
 **Decade 1 and Decade 2** - 
 * With 95% confidence, the difference in mean closing prices can be found between **-386.29 and -366.81**.
