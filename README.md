@@ -31,74 +31,36 @@ Time frame combinations:
 
 Note - all p-values are significant at p < 0.05.
 
-* **Decade 1 and Decade 2** -
+**Decade 1 and Decade 2** - 
+* With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
+* The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
+* if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
 * **Decade 1 and Decade 3** - 
+* With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
+* The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
+* if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
 * **Decade 1 and Decade 4** -
+* With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
+* The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
+* if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
 * **Decade 2 and Decade 3** - 
+* With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
+* The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
+* if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
 * **Decade 2 and Decade 4** - 
+* With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
+* The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
+* if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
 * **Decade 3 and Decade 4** - 
+* With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
+* The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
+* if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
-![](ReadMe_Images/Feature_Importance.png)
-
-1) **Shooting Percentage** (shootingPctg)
-2) **Save Percentage** (savePctg)
-3) **Shots Per Gam**e (failedShotsPerGame)
-4) **Percentage of Games Won when Team Scores First** (winScoreFirstGreater61_low)
-5) **Save Per Game** (savesPerGame) 
-
-Model Target:
-
-1) **Above the Mean Adjusted Wins** (aboveMeanAdjWins)
-
-Model results on test data:
-
-![](ReadMe_Images/r2.png)
-
-* **r2:** 0.90
-* **Mean Absolute Error:** 1.79
-* **Mean Squared Error:** 5.32
-* **Root Mean Squared Error:** 2.31
- 
-### Logistic Regression Using Predicted Season Outcomes to Predict Playoff Outcomes
-
-Model Feature:
-
-1) **Predicted Above the Mean Adjusted Wins** (predAboveMeanAdjWins)
-
-Model Target:
-
-1) **Failed Seasons By Not Making Playoffs** (failed_playoff_flag)
-
-![](ReadMe_Images/ROC_AUC.png)
-
-* **Concordance:** 0.94
-* **AUC:** 0.94
-
-![](ReadMe_Images/CAP_LIFT.png)
-
-* **Accuracy:** 0.86
-* **Percision:** 0.91
-* **Recall:** 0.87
-* **F1:** 0.89
-* **Kolmogorov–Smirnov Measure (KS):** 43% at the 4th decile, 1.1 time greater than a random model
-
-### A/B Testing on Predictor Features
-
-If teams want to make the playoffs they need to increase their aboveMeanAdjWins. To increase their aboveMeanAdjWins, teams should take into consideration the following:
-
-Note - all A/B tests were significant as <0.05. 
-
-1) **shootingPctg** -                strive to achieve **10.84%** shooting percentage and stay within range **10.3%, 10.48%, 10.67%**.<br>
-2) **savePctg**                      strive to achieve a **90.21%** save percentage and stay within range **90.02%, 90.21%, 90.4%**.<br>
-3) **savesPerGame**                  strive to achieve **26.12** saves per game and stay within range **25.82, 26.12, 26.42**.<br>
-4) **failedShotsPerGame**            strive to achieve **27.17** shots per game and stay within range **26.91, 27.17, 27.43**.<br>
-5) **winScoreFirstGreater61_low**    strive to win **82%** of games they score first and stay within range **75%, 82%, 88%**.<br>
-6) **aboveMeanAdjWins**              strive to achieve **4.3** shots per game and stay within range **3.62, 4.3, 4.98**.<br>
 
 ## Technologies 
 
