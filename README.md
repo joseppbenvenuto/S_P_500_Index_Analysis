@@ -65,7 +65,7 @@ The S&P 500 Index has proven to be a profitable investment with a high margin of
 Over the 40-year time frame, the actual annual compounded return for the index is 9%.<br>
 A 100,000 investment at the beginning of the 40-year time frame would now be worth 3,140,942 today.<br>
 
-**Note** - In addition, returns have been slowing down in the recent decade and can be explained by the unprecedented low interest rate environment.
+**Note** - Also, returns have been slowing down in the recent decade and can be explained by the unprecedented low interest rate environment.
 
 ## Technologies 
 
