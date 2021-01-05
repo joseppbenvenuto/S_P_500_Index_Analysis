@@ -61,9 +61,9 @@ Time frame combinations:
 * The index returned simulated average compounded return of 2% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 3 and sold at the end of Decade 4 (10 years), the investor would have earned an actual compounded return of **4%.**
 
-The S&P 500 Index has proven to be a profitable investment with a high margin of safety through a longer time horizon.
-Over the 40-year time frame, the actual annual compounded return for the index is 9%.
-A 100,000 investment at the beginning of the 40-year time frame would now be worth 3,140,942 today.
+The S&P 500 Index has proven to be a profitable investment with a high margin of safety through a longer time horizon. <br>
+Over the 40-year time frame, the actual annual compounded return for the index is 9%.<br>
+A 100,000 investment at the beginning of the 40-year time frame would now be worth 3,140,942 today.<br>
 
 **Note** - In addition, returns have been slowing down in the recent decade and can be explained by the unprecedented low interest rate environment.
 
