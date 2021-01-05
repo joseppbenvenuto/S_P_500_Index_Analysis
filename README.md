@@ -36,31 +36,30 @@ Note - all p-values are significant at p < 0.05.
 * The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
-* **Decade 1 and Decade 3** - 
+**Decade 1 and Decade 3** - 
 * With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
 * The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
-* **Decade 1 and Decade 4** -
+**Decade 1 and Decade 4** -
 * With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
 * The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
-* **Decade 2 and Decade 3** - 
+**Decade 2 and Decade 3** - 
 * With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
 * The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
-* **Decade 2 and Decade 4** - 
+**Decade 2 and Decade 4** - 
 * With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
 * The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
 
-* **Decade 3 and Decade 4** - 
+**Decade 3 and Decade 4** - 
 * With 95% confidence, the difference in mean closing prices can be found between -386.29 and -366.81.
 * The index returned simulated average compounded return of 6% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * if The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of 14%
-
 
 ## Technologies 
 
