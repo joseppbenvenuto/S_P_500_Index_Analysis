@@ -75,24 +75,13 @@ A 100,000 investment at the beginning of the 40-year time frame would now be wor
 
 ## Order of Analysis
 
-1) NHL_1983_2020_Multiple_Linear_Regression_EDA.ipynb
-2) NHL_1983_2020_Multiple_Linear_Regression.ipynb
-3) NHL_1983_2020_Logistic_Regression_EDA.ipynb
-4) NHL_1983_2020_Logistic_Regression.ipynb
-5) NHL_1983_2020_Feature_A-B_Tests.ipynb
+1) **Data_Preprocessing_Exploring_Data.ipynb**
+2) **S&P_500_Index_Analysis.ipynb**
 
 ## Directory Files
 
-1) **NHL_API.ipynb** - NHL data base API.
-2) **Preprocessing_Functions.ipynb** - Preprocessing functions.
-3) **Regression_Metrics_Function.ipynb** - Rgression evaluation functions.
-4) **AUC_CAP_Functions.ipynb** - Classification evaluation metrics.
-5) **Stats_Functions.ipynb** - Descriptive and inferential stats functions.
-6) **CHAID_Tree_Plots** - CHAID tree algorithm used to explore data for derived variables.
-7) **NHL_1983_2020_Multiple_Linear_Regression_EDA.ipynb** - Multiple linear regression EDA, feature enginearing, and feature selection.
-8) **NHL_1983_2020_Multiple_Linear_Regression.ipynb** - Multiple linear regression model building, feature selection, preprocessing, evaluation, and interpretation.
-9) **NHL_Season_Wins_Linear_Regression_Model.pkl** - Saved multiple linear regression model.
-10) **NHL_1983_2020_Logistic_Regression_EDA.ipynb** - Logistic regression EDA, feature enginearing, and feature selection.
-11) **NHL_1983_2020_Logistic_Regression.ipynb** - Logistic regression model building, feature selection, preprocessing, evaluation, and interpretation.
-12) **NHL_Playoffs_Logistic_Regression_Model.pkl** - Saved Logistic regression model.
-13) **NHL_1983_2020_Feature_A-B_Tests.ipynb** - A/B testing on predictor features between successful and unsuccessful playoff outcomes.
+1) **Data_Preprocessing_Exploring_Data.ipynb** - Data preprocessing and exploration.
+2) **S&P_500_Index_Analysis.ipynb** - A/B testing analysis of the difference in the S&P 500 Index mean closing prices between decades.
+3) **St.Louis_Fed_Bank_API.ipynb** - St.Louis Fed Bank API to gather real annual U.S GDP data.
+4) **Stats_Monte_Carlo_Functions.ipynb** - Project functions.
+
