@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In the below analysis, the S&P 500 Index closing prices will be explored within four decades. The objective is to analyze the index and determine if the index is an invaluable long term investment.
+In the analysis, the S&P 500 Index closing prices are explored within four decades. The objective is to analyze the index and determine if the index is an invaluable long term investment.
 
 Four decades:
 
@@ -11,11 +11,13 @@ Decade 2: 1989 - 1999<br>
 Decade 3: 1999 - 2009<br>
 Decade 4: 2009 - 2019<br>
 
-The analysis will seek to understand the compounded returns (not including dividends) the index has produced in the above time frames. 
+The analysis saught to understand the compounded returns (not including dividends) the index has produced in the above time frames. 
 
-Within each time frame, A/B will be performed to see if the means of prices between decades are statistically significant. The goal is to observe if the closing prices are higher or lower between the time frames and determine the risk of the investment. 
+Within each time frame, A/B was performed to see if the means of prices between decades are statistically significant. The goal was to observe if the closing prices are higher or lower between the time frames and determine the risk of the investment. 
 
-Further, Monte Carlo simulations will be performed to further assess risk. Using the Monte Carlo results, an average compounded return will be calculated to observe the simulated annual returns in addition to the actual compounded results in each time frame.
+Further, Monte Carlo simulations was performed to further assess risk. Using the Monte Carlo results, an average compounded return was calculated to observe the simulated annual returns in addition to the actual compounded results in each time frame.
+
+
 
 ## Methods Used
 
