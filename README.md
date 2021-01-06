@@ -32,11 +32,12 @@ Time frame combinations:
 **Note** - all p-values are significant at **p < 0.05**.
 
 **Decade 1 and Decade 2:**
+
+![](ReadMe_Images/download-1.png)
+
 * With 95% confidence, the difference in mean closing prices can be found between **-386.29 and -366.81**.
 * The index returned simulated average compounded return of **6%** and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
 * If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual compounded return of **14%**.
-
-![](ReadMe_Images/download-1.png)
 
 **Decade 1 and Decade 3:** 
 
