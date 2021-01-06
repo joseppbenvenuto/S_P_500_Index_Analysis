@@ -15,7 +15,7 @@ The analysis will seek to understand the compounded returns (not including divid
 
 Within each time frame, A/B will be performed to see if the means of prices between decades are statistically significant. The goal is to observe if the closing prices are higher or lower between the time frames and determine the risk of the investment. 
 
-Further, Monte Carlo simulations will be performed to further asses risk. Using the Monte Carlo results, an average compounded return will be calculated to observe the simulated annual returns in addition to the actual compounded results in each time frame.
+Further, Monte Carlo simulations will be performed to further assess risk. Using the Monte Carlo results, an average compounded return will be calculated to observe the simulated annual returns in addition to the actual compounded results in each time frame.
 
 ## Methods Used
 
@@ -75,13 +75,14 @@ A 100,000 investment at the beginning of the 40-year time frame would now be wor
 
 ## Order of Analysis
 
-1) **Data_Preprocessing_Exploring_Data.ipynb**
+1) **Data_Preprocessing_EDA.ipynb**
 2) **S&P_500_Index_Analysis.ipynb**
 
 ## Directory Files
 
-1) **Data_Preprocessing_Exploring_Data.ipynb** - Data preprocessing and exploration.
+1) **Data_Preprocessing_EDA.ipynb** - Data preprocessing and exploration.
 2) **S&P_500_Index_Analysis.ipynb** - A/B testing analysis of the difference in the S&P 500 Index mean closing prices between decades.
 3) **St.Louis_Fed_Bank_API.ipynb** - St.Louis Fed Bank API to gather real annual U.S GDP data.
 4) **Stats_Monte_Carlo_Functions.ipynb** - Project functions.
+5) **Preprocessing_Functions.ipynb** - Preprocessing Functions.
 
