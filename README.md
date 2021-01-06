@@ -17,7 +17,7 @@ Within each time frame, A/B was performed to see if the means of prices between 
 
 Further, Monte Carlo simulations was performed to further assess risk. Using the Monte Carlo results, an average compounded return was calculated to observe the simulated annual returns in addition to the actual compounded results in each time frame.
 
-
+The analysis can be taken advantage of by any individual or entity looking for a valuable investment opportunity.
 
 ## Methods Used
 
