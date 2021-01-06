@@ -33,7 +33,7 @@ Time frame combinations:
 
 **Decade 1 and Decade 2:**
 
-![](ReadMe_Images/download-1.png)
+![](ReadMe_Images/download.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-386.29 and -366.81**.
 * The index returned simulated average compounded return of **6%** and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
@@ -41,7 +41,7 @@ Time frame combinations:
 
 **Decade 1 and Decade 3:** 
 
-![](ReadMe_Images/download-2.png)
+![](ReadMe_Images/download-1.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-1056.13 and -1041.1**.
 * The index returned simulated average compounded return of **7%** and at no time during the simulation had prices been lesser in decade 3 than in decade 1.
@@ -49,7 +49,7 @@ Time frame combinations:
 
 **Decade 1 and Decade 4:**
 
-![](ReadMe_Images/download-3.png)
+![](ReadMe_Images/download-2.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-1611.35 and -1566.89**.
 * The index returned simulated average compounded return of **6%** and at no time during the simulation had prices been lesser in decade 4 than in decade 1.
@@ -57,7 +57,7 @@ Time frame combinations:
 
 **Decade 2 and Decade 3:** 
 
-![](ReadMe_Images/download-4.png)
+![](ReadMe_Images/download-3.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-683.86 and -660.27**.
 * The index returned simulated average compounded return of **4%** and at no time during the simulation had prices been lesser in decade 3 than in decade 2.
@@ -65,7 +65,7 @@ Time frame combinations:
 
 **Decade 2 and Decade 4:**
 
-![](ReadMe_Images/download-5.png)
+![](ReadMe_Images/download-4.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-1236.59 and -1188.55**.
 * The index returned simulated average compounded return of **4%** and at no time during the simulation had prices been lesser in decade 4 than in decade 2.
@@ -73,7 +73,7 @@ Time frame combinations:
 
 **Decade 3 and Decade 4:**
 
-![](ReadMe_Images/download-6.png)
+![](ReadMe_Images/download-5.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-563.71 and -517.3**.
 * The index returned simulated average compounded return of 2% and at no time during the simulation had prices been lesser in decade 2 than in decade 1.
