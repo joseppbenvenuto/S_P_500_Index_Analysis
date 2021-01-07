@@ -11,11 +11,13 @@ Decade 2: 1989 - 1999<br>
 Decade 3: 1999 - 2009<br>
 Decade 4: 2009 - 2019<br>
 
-The analysis saught to understand the compounded returns (not including dividends) the index produced in the above time frames. 
+The analysis sought to understand the compounded returns (not including dividends) the index produced in the above time frames. 
 
-Within each time frame, an A/B was performed to see if the means of prices between decades were statistically significant. The goal was to observe if the closing prices were higher or lower between the time frames and determine the risk of the investment. 
+A/B were used to infer if the difference in means of prices between decades were statistically significant. The goal was to observe if the closing prices were higher or lower between the time frames and determine the investment risk.
 
-Further, Monte Carlo simulations were performed to further assess risk. Using the Monte Carlo results, an average compounded return was calculated to observe the simulated annual returns in addition to the actual compounded results for each time frame.
+If the prices were higher in each new decade and statistically significant, intuitively, this was determined to be a positive sign and that the index was producing profits; the opposite is true for the opposite results.
+
+In addition to the above, the analysis observed trends in economic data regarding U.S Real GDP, S&P 500 Index EPS, Ten Year U.S Treasury Bond Yields, and Average Annual U.S Inflation to aid in the analysis.
 
 The analysis can be taken advantage of by any individual or entity looking for a valuable investment opportunity.
 
