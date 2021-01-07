@@ -15,7 +15,7 @@ The analysis sought to understand the compounded returns (not including dividend
 
 A/B were used to infer if the difference in means of prices between decades were statistically significant. The goal was to observe if the closing prices were higher or lower between the time frames and determine the investment risk.
 
-If the prices were higher in each new decade and statistically significant, intuitively, this was determined to be a positive sign and that the index was producing profits; the opposite is true for the opposite results.
+If the prices were higher in each new decade and statistically significant, intuitively, this was determined to be a positive sign and that the index was producing profits; the opposite was true for the opposite results.
 
 In addition to the above, the analysis observed trends in economic data regarding U.S Real GDP, S&P 500 Index EPS, Ten Year U.S Treasury Bond Yields, and Average Annual U.S Inflation to aid in the analysis.
 
