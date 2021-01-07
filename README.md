@@ -109,6 +109,6 @@ A $100,000 investment at the beginning of the 40-year time frame would now be wo
 1) **Data_Preprocessing_EDA.ipynb** - Data preprocessing and exploration.
 2) **S&P_500_Index_Analysis.ipynb** - A/B testing analysis of the difference in the S&P 500 Index mean closing prices between decades.
 3) **St.Louis_Fed_Bank_API.ipynb** - St.Louis Fed Bank API to gather real annual U.S GDP data.
-4) **Stats_Monte_Carlo_Functions.ipynb** - Project functions.
+4) **Stats_Functions.ipynb** - Stats functions.
 5) **Preprocessing_Functions.ipynb** - Preprocessing Functions.
 
