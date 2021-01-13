@@ -99,7 +99,7 @@ A $100,000 investment at the beginning of the 40-year time frame would now be wo
 
 ![title](ReadMe_Images/Dash.png)
 
-https://public.tableau.com/views/SP500Index_16105134799210/Dashboard?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
+https://public.tableau.com/shared/JG4RJDP42?:display_count=y&:origin=viz_share_link
 
 ## Technologies 
 
