@@ -119,5 +119,4 @@ https://public.tableau.com/views/SP500Index_16105134799210/Dashboard?:language=e
 3) **St.Louis_Fed_Bank_API.ipynb** - St.Louis Fed Bank API to gather real annual U.S GDP data.
 4) **Stats_Functions.ipynb** - Stats functions.
 5) **Preprocessing_Functions.ipynb** - Preprocessing Functions.
-6) **Data** - All project data.
 
