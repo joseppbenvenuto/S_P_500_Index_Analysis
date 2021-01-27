@@ -17,7 +17,7 @@ A/B were used to infer if the difference in means of prices between decades were
 
 If the prices were higher in each new decade and statistically significant, intuitively, this was determined to be a positive sign and that the index was producing profits; the opposite was true for the opposite results.
 
-In addition to the above, the analysis observed trends in economic data regarding U.S Real GDP, S&P 500 Index EPS, Ten Year U.S Treasury Bond Yields, and Average Annual U.S Inflation to aid in the analysis.
+In addition to the above, the analysis observed trends in economic data regarding U.S Real GDP, S&P 500 Index EPS, Ten Year U.S Treasury Bond Yields, and Average Annual U.S Inflation over the same time period to aid in the analysis.
 
 The analysis can be taken advantage of by any individual or entity looking for a valuable investment opportunity.
 
