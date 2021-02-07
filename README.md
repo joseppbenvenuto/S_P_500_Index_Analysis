@@ -82,7 +82,7 @@ A $100,000 investment at the beginning of the 40-year time frame would now be wo
 
 **Note** - Also, returns have been slowing down in the recent decade and can be explained, in-part, by the unprecedented low interest rate environment.
 
-**Dashboard:**
+**Dashboard (is optimized for a 13-inch desktop):**
 
 ![title](ReadMe_Images/Dash.png)
 
