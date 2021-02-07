@@ -39,48 +39,42 @@ Time frame combinations:
 ![](ReadMe_Images/download.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-$386.29 and -$366.81 (distribution: $166.9, $176.64, $186.38)**.
-* If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual   
-* 20Yr compounded return of **14%**.
+* If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 2 (20 years), the investor would have earned an actual 20Yr compounded return of **14%**.
 
 **Decade 1 and Decade 3:** 
 
 ![](ReadMe_Images/download-1.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-$1056.13 and -$1041.1 (distribution: $169.13, $176.64, $184.16)**.
-* If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 3 (30 years), the investor would have earned an actual  
-* 30Yr compounded return of **8%**.
+* If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 3 (30 years), the investor would have earned an actual 30Yr compounded return of **8%**.
 
 **Decade 1 and Decade 4:**
 
 ![](ReadMe_Images/download-2.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-$1611.35 and -$1566.89 (distribution: $154.42, $176.64, $198.88)**.
-* If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 4 (40 years), the investor would have earned an actual 
-* 40 Yr compounded return of **8%**.
+* If The investor bought the S&P 500 Index at the beginning of Decade 1 and sold at the end of Decade 4 (40 years), the investor would have earned an actual 40 Yr compounded return of **8%**.
 
 **Decade 2 and Decade 3:** 
 
 ![](ReadMe_Images/download-3.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-$683.86 and -$660.27 (distribution: $541.4, $553.19, $564.99)**.
-* If The investor bought the S&P 500 Index at the beginning of Decade 2 and sold at the end of Decade 3 (20 years), the investor would have earned an actual
-* 20Yr compounded return of **6%**.
+* If The investor bought the S&P 500 Index at the beginning of Decade 2 and sold at the end of Decade 3 (20 years), the investor would have earned an actual 20Yr compounded return of **6%**.
 
 **Decade 2 and Decade 4:**
 
 ![](ReadMe_Images/download-4.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-$1236.59 and -$1188.55 (distribution: $529.18, $553.19, $577.22)**.
-* If The investor bought the S&P 500 Index at the beginning of Decade 2 and sold at the end of Decade 4 (30 years), the investor would have earned an actual
-* 30Yr compounded return of **8%**.
+* If The investor bought the S&P 500 Index at the beginning of Decade 2 and sold at the end of Decade 4 (30 years), the investor would have earned an actual 30Yr compounded return of **8%**.
 
 **Decade 3 and Decade 4:**
 
 ![](ReadMe_Images/download-5.png)
 
 * With 95% confidence, the difference in mean closing prices can be found between **-$563.71 and -$517.3 (distribution: $1202.06, $1225.26, $1248.47)**.
-* If The investor bought the S&P 500 Index at the beginning of Decade 3 and sold at the end of Decade 4 (10 years), the investor would have earned an actual
-* 20 Yr compounded return of **4%.**
+* If The investor bought the S&P 500 Index at the beginning of Decade 3 and sold at the end of Decade 4 (10 years), the investor would have earned an actual 20 Yr compounded return of **4%.**
 
 The S&P 500 Index has proven to be a profitable investment with a high margin of safety for the long term investor. <br>
 Over the 40-year time frame, the actual annual compounded return for the index was 9%.<br>
