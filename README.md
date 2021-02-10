@@ -1,4 +1,4 @@
-# S_P_500_Index_Analysis
+# S&P 500 Index Analysis
 
 ## Project Description
 
