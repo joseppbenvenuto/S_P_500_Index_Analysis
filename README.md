@@ -117,5 +117,6 @@ https://fin-app-dash.herokuapp.com/
 3) **St.Louis_Fed_Bank_API.ipynb** - St.Louis Fed Bank API to gather real annual U.S GDP data.
 4) **Stats_Functions.ipynb** - Stats functions.
 5) **Preprocessing_Functions.ipynb** - Preprocessing Functions.
-6) **S&P_500_Index_Dashboard.twbx** - S&P 500 Index historical dashboard
+6) **S&P_500_Index_Dashboard.twbx** - S&P 500 Index historical dashboard.
+7) **Financial_Plotly_Dash_Dashboard** - Data colletion via EDGAR API and webscraping to display 20 years of balance sheet, income statement, cash-flow statement data in addition to others.
 
