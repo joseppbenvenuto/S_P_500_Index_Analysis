@@ -103,7 +103,8 @@ https://fin-app-dash.herokuapp.com/
 
 1) Python 
 2) Jupyter Notebook
-3) Anaconda Environment
+3) Tableau
+4) Anaconda Environment
 
 ## Order of Analysis
 
