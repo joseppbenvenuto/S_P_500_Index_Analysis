@@ -82,13 +82,22 @@ A $100,000 investment at the beginning of the 40-year time frame would now be wo
 
 **Note** - Also, returns have been slowing down in the recent decade and can be explained, in-part, by the unprecedented low interest rate environment.
 
-**Dashboard:**
+**Dashboard1:**
 
 **Note** - The dashboard is optimized for a 13-inch desktop.
 
 ![title](ReadMe_Images/Dash.png)
 
 https://public.tableau.com/profile/josepp8009#!/vizhome/SP500Index_16105134799210/Dashboard
+
+**Dashboard2:**
+
+![title](ReadMe_Images/Dash2.png)
+
+https://fin-app-dash.herokuapp.com/
+
+* **Username:** data
+* **Password:** analyst
 
 ## Technologies 
 
