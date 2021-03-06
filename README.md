@@ -13,7 +13,7 @@ Decade 4: 2009 - 2019<br>
 
 The analysis sought to understand the compounded returns (not including dividends) the index produced in the above time frames. 
 
-A/B were used to infer if the difference in means of prices between decades were statistically significant. The goal was to observe if the closing prices were higher or lower between the time frames and determine the investment risk.
+A/B tests were used to infer if the difference in means of prices between decades were statistically significant. The goal was to observe if the closing prices were higher or lower between the time frames and determine the investment risk.
 
 If the prices were higher in each new decade and statistically significant, intuitively, this was determined to be a positive sign and that the index was producing profits; the opposite was true for the opposite results.
 
