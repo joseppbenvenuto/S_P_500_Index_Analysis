@@ -82,6 +82,8 @@ A $100,000 investment at the beginning of the 40-year time frame would now be wo
 
 **Note** - Also, returns have been slowing down in the recent decade and can be explained, in-part, by the unprecedented low interest rate environment.
 
+## Dashboards
+
 **Dashboard1:**
 
 **Note** - The dashboard is optimized for a 13-inch desktop.
