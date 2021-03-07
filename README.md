@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In the analysis, the S&P 500 Index closing prices were explored within a four decade time frame. The objective was to analyze the index and determine if it was a valuable long term investment.
+In the analysis, the S&P 500 Index closing prices were explored within a four decade time frame. The objective was to analyze the index and determine if it was and can continue to be a valuable long term investment.
 
 Four decades:
 
